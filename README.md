@@ -1,10 +1,10 @@
-HTML Knowledge Refreshment
+# HTML Knowledge Refreshment
 
-A personal repository for refreshing and strengthening my knowledge of HTML (HyperText Markup Language) through hands-on exercises, examples, and small practice projects.
+## A personal repository for refreshing and strengthening my knowledge of HTML (HyperText Markup Language) through hands-on exercises, examples, and small practice projects.
 
-This repository is part of my journey to rebuild my confidence in web development and review the fundamentals of HTML before moving deeper into CSS, JavaScript, and other web technologies.
+### This repository is part of my journey to rebuild my confidence in web development and review the fundamentals of HTML before moving deeper into CSS, JavaScript, and other web technologies.
 
-📚 What This Repository Covers
+## 📚 What This Repository Covers
 
 The repository contains examples and exercises covering fundamental HTML concepts, including:
 
